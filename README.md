@@ -46,7 +46,6 @@ It bridges campus communication, transparent governance, peer-to-peer academic s
 ---
 
 ### 3. 🎓 Digital Student Identity & Campus Pass (`/app/profile`)
-* **Authentic Smart Digital Campus Pass**: Realistic BUBT Student ID card with crest, holographic security band, student photo, program, intake, verified blood group, turnstile barcode, and QR pass.
 * **Edit DP & Blood Group**:
   - Interactive photo uploader supporting local images (`JPG`, `PNG`, `WEBP`) with instant preview and crop.
   - Blood group selector (`A+`, `A-`, `B+`, `B-`, `AB+`, `AB-`, `O+`, `O-`) reflecting dynamically across profile metadata and the smart ID card.
